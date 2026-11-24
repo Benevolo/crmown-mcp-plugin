@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "crmown",
+  "version": "1.0.0",
+  "description": "Connect your CRMown account to look up contacts, companies and deals, read meeting summaries and pipeline totals, and — with your approval — add notes, create tasks, draft emails or move deals. Sign in with your CRMown login; no API key to paste.",
+  "author": {
+    "name": "CRMown",
+    "email": "John@crmown.com",
+    "url": "https://crmown.com"
+  },
+  "homepage": "https://crmown.com",
+  "repository": "https://github.com/Benevolo/crmown-mcp-plugin",
+  "license": "MIT",
+  "keywords": ["crm", "sales", "contacts", "deals", "mcp"]
+}
